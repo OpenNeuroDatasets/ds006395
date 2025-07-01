@@ -1,4 +1,4 @@
-participant_id	group	sex	age_at_acquisition	Burke-Fahn-Marsden_dystonia_scale
+participant_id	group	sex	age	Burke-Fahn_scale
 sub-C01710	HC	F	57	0
 sub-C01713	HC	F	40	0
 sub-C01715	HC	M	32	0
