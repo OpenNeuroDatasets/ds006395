@@ -144,6 +144,5 @@
 		-0.125333	],
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20181114  Clang4.0.1",
-	"TaskName":"rest"
+	"ConversionSoftwareVersion": "v1.0.20181114  Clang4.0.1"
 }
