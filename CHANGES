@@ -1,3 +1,5 @@
+1.0.5 2025-08-29
+  - Fixed files corrupted resting-state files of subjects C01725, C01731, P0804, P0821, P0921.
 1.0.4 2025-07-17
   - Fixed warnings regarding Gzip files
 1.0.3 2025-07-15
