@@ -21,7 +21,7 @@
     "EthicsApprovals": [
         "The study was approved by the Institutional Review Boards of all participating centers (Hospital Israelita Albert Einstein, Hospital do Servidor Público Estadual, and Universidade Federal de São Paulo), and all subjects provided written informed consent prior to participation."
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006395.v1.0.4",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006395.v1.0.5",
     "GeneratedBy": [
         {
             "Name": "pydeface",
