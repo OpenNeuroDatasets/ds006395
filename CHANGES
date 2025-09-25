@@ -1,3 +1,5 @@
+1.0.6 2025-09-25
+  - fixed inaccuracies in the readme dataset description
 1.0.5 2025-08-29
   - Fixed files corrupted resting-state files of subjects C01725, C01731, P0804, P0821, P0921.
 1.0.4 2025-07-17
